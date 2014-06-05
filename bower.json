@@ -1,0 +1,17 @@
+{
+  "name": "UUIDjs",
+  "description": "The RFC-compliant UUID generator for JavaScript",
+  "version": "1.0.0",
+  "main": "uuid.js",
+  "authors": [
+    "LiosK"
+  ],
+  "keywords": [
+    "uuid"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/LiosK/UUID.js",
+  "ignore": [
+    "uuid.spec.js"
+  ]
+}
