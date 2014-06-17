@@ -1,13 +1,15 @@
 {
-  "name": "UUIDjs",
-  "description": "The RFC-compliant UUID generator for JavaScript",
+  "name": "uuidjs-angular",
+  "description": "The RFC-compliant UUID generator for JavaScript, Angular module",
   "version": "1.0.0",
   "main": "uuid.js",
   "authors": [
-    "LiosK"
+    "LiosK",
+    "thekarel"
   ],
   "keywords": [
-    "uuid"
+    "uuid",
+    "angularjs"
   ],
   "license": "MIT",
   "homepage": "https://github.com/LiosK/UUID.js",
